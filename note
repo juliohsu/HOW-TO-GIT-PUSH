@@ -1,0 +1,30 @@
+
+
+          <!-- Lua Francesa -->
+          <div class="product-div">
+            <img class="wow zoomIn" src="images/k_doce/lua_francesa.png" alt="" />
+            <p class="wow zoomIn" style="color: black">Lua Francesa<br />15.00</p>
+            <h3 class="wow zoomIn" style="color: black">
+              Croissant recheado por Geleia de Morango & Cream Cheese.
+            </h3>
+          </div>
+
+          <!-- Quarteto -->
+          <div class="product-div">
+            <img class="wow zoomIn" src="images/k_doce/quarteto.png" alt="" />
+            <p class="wow zoomIn" style="color: black">Quarteto<br />15.00</p>
+            <h3 class="wow zoomIn" style="color: black">
+              Croissant coberto por Nutella e recheado por Três Tipo de Chocolates (Ao Leite, Amargo e Branco).
+            </h3>
+          </div>
+
+          <!-- Pain Au Chocolat -->
+          <div class="product-div">
+            <img class="wow zoomIn" src="images/k_doce/pain_au.png" alt="" />
+            <p class="wow zoomIn" style="color: black">
+              Pain Au Chocolat<br />12.00
+            </p>
+            <h3 class="wow zoomIn" style="color: black">
+              Croissant c/ Dois ou Três Pedaços de Chocolate Belga por dentro.
+            </h3>
+          </div>
