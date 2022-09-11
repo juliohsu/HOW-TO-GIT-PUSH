@@ -488,11 +488,22 @@ nav {
 }
 .stats {
   width: 100%;
-  background-image: url("../images/k_exclusivo/cheesecake_bg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   padding: 80px 0px;
+}
+.stats-vitrine {
+  background-image: url("../images/k_vitrine/vitrine_bg.jpeg");
+}
+.stats-coffee {
+  background-image: url("../images/cafe/cafe_bg.jfif");
+}
+.stats-choco {
+  background-image: url("../images/choco_milk/choco_milk_bg.jfif");
+}
+.stats-bebidas {
+  background-image: url("../images/cafe/bebidas_bg.jfif");
 }
 .stats-box {
   text-align: center;
