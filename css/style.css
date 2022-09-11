@@ -503,7 +503,10 @@ nav {
   background-image: url("../images/choco_milk/choco_milk_bg.jfif");
 }
 .stats-bebidas {
-  background-image: url("../images/cafe/bebidas_bg.jfif");
+  background-image: url("../images/bebidas/bebidas_bg.png");
+}
+.stats-alcoolica {
+  background-image: url("../images/alcoolica/alcoolica_bg.jfif");
 }
 .stats-box {
   text-align: center;
